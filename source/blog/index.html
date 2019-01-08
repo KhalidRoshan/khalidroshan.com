@@ -5,9 +5,9 @@ pagination:
 ---
 
 <section class="post-list">
-  {% for post in paginator.total_pages %}
-    {% include article.html %}
+  {% for post in paginator.posts %}
+    {% include article1.html %}
   {% endfor %}
 
-  {% include pagination.html %}
+  {% include pagination1.html %}
 </section>
