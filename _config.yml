@@ -16,8 +16,8 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/open?id=1cNu-VBqUL1mAGBHKccYFe7WduNrfQ23X
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: https://www.khalidroshan.com
+your url: http://khalidroshan.github.io
 
 permalink: /:title/
 
@@ -54,7 +54,7 @@ github: KhalidRoshan
 email: khalid.roshan23@gmail.com
 
 authors:
-    johndoe:
+    khalidroshan:
         name: Khalid Roshan Mohammed
         bio: Student Developer
         external-image: true
