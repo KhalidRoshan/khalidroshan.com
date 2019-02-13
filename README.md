@@ -14,4 +14,6 @@
 
 ---
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6575fb44-993d-4036-af99-20dbfeb38a55/deploy-status)](https://app.netlify.com/sites/hungry-archimedes-18399a/deploys)
+
 [MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
