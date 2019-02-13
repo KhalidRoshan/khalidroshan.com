@@ -10,7 +10,7 @@
 
 - [Jekyll](https://jekyllrb.com/), [Sass](http://sass-lang.com/) and [SVG](https://www.w3.org/Graphics/SVG/)
 - [Indigo Minimalist Jekyll Template](https://github.com/sergiokopplin/indigo) by Sérgio Kopplin 
-- Google Speed: [100/100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.khalidroshan.com);
+- Google Speed: [96/100](https://developers.google.com/speed/pagespeed/insights/?url=http://www.khalidroshan.com);
 
 ---
 
