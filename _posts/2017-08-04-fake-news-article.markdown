@@ -3,7 +3,7 @@ title: "Fake News: The Modern Plague"
 layout: post
 date: 2017-08-04 20:45
 image: /assets/images/fakenews.jpg
-headerImage: false
+headerImage: true
 tag:
 - fake news
 - social media
