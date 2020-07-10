@@ -1,35 +1,34 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Vardhaman Bot"
 layout: post
-date: 2016-01-23 22:10
-tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+date: 2018-12-27 22:10
+tag: NLU
+#image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "This is a Rasa NLU based chatbot created by Utor AI that functions as a personal assistant to the students of Vardhaman College of Engineering. "
 category: project
-author: johndoe
+author: khalidroshan
 externalLink: false
----
-
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
-
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
 
 ---
 
-What has inside?
+Vardhaman Bot
+=============
+This is a Rasa NLU based chatbot created by Utor AI that functions as a personal assistant to the students of Vardhaman College of Engineering.
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+## Installing Dependencies and Running the chatbot
+The utorai/botbase docker image has all necessary dependencies which is the base image for our Dockerfile. So build the docker image and start a container with the docker image you just built and you should be all set.
 
+## Contribute
+Though the core development and maintenance is done by Utor AI, we encourage contributions from everyone.
+ 
+To Contribute:
+1) Fork the repository to your github account
+2) Clone the repository
+3) The master branch is protected so after you make changes push the code to your forked repository.
+4) Create a pull request in the utorai/vardhamanbot repository and tag any of the members of Utor AI so that
+   your edits are reviewed and merged.
+   
 ---
-
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
