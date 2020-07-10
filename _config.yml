@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/open?id=1cNu-VBqUL1mAGBHKccYFe7WduNrfQ23X
+resume-url: https://drive.google.com/file/d/1gHmTfaKt5M6eYumqOOWA9jqarL0F-Oax/view?usp=sharing
 
 url: https://www.khalidroshan.com
 #your url: http://khalidroshan.github.io
@@ -37,7 +37,7 @@ disqus:
 facebook: KhalidRoshan2307
 twitter: khalidroshan23
 # google: mygoogle
-instagram: khalid_roshan23
+# instagram: myinstagram
 # pinterest: mypinterest
 linkedin: KhalidRoshan23
 # youtube: myyoutube
